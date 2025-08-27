@@ -23,7 +23,6 @@ Sistema completo para criação de personagens de RPG baseado em Kotlin, impleme
 - **JDK 17** ou superior instalado
 - **Gradle** (opcional - já incluído no wrapper)
 
-### Método 1: Execução com Gradle Wrapper (Recomendado)
 ```bash
 # Compilar e executar
 ./gradlew clean run
